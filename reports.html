@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expense Reports</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Chart.js library -->
+  </head>
+  <body>
+    <header>
+      <div id="navbar-container">
+        <div id="navbar-logo">
+          <img
+            src="assets/images/logo.png"
+            alt="Expense Tracker Logo"
+            id="logo"
+          />
+          <h1>Expense Tracker</h1>
+        </div>
+        <nav>
+          <ul id="navbar-menu">
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="reports.html">Reports</a></li>
+            <li><a href="budgets.html">Budgets</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section id="expense-summary">
+        <h2>Expense Summary</h2>
+        <p>Total Expenses: (SEK) <span id="total-amount-report">0</span></p>
+        <p>Food: (SEK) <span id="food-amount-report">0</span></p>
+        <p>Transport: (SEK) <span id="transport-amount-report">0</span></p>
+        <p>
+          Entertainment: (SEK) <span id="entertainment-amount-report">0</span>
+        </p>
+        <p>Utilities: (SEK) <span id="utilities-amount-report">0</span></p>
+        <p>Other: (SEK) <span id="other-amount-report">0</span></p>
+      </section>
+
+      <section id="expense-chart">
+        <h2>Expenses Chart</h2>
+        <canvas id="expensesChart"></canvas>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-container">
+        <div class="footer-logo">
+          <img
+            src="assets/images/logo.png"
+            alt="Expense Tracker Logo"
+            class="footer-logo-image"
+          />
+          <h1>Expense Tracker</h1>
+        </div>
+        <div class="footer-content">
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="reports.html">Reports</a>
+            <a href="budgets.html">Budgets</a>
+          </div>
+          <div class="footer-contacts">
+            <p>
+              Email:
+              <a href="guluzianjoseph123@gmail.com"
+                >guluzianjoseph123@gmail.com</a
+              >
+            </p>
+            <p>Phone: +46 (0) 123 456 789</p>
+          </div>
+          <p>&copy; 2024 Expense Tracker. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/reports.js"></script>
+  </body>
+</html>
