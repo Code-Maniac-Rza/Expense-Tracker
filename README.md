@@ -64,6 +64,8 @@ The **Expense Tracker** web application is designed to help users manage their p
 Chart.js - https://www.chartjs.org/
 Used to create dynamic charts in the reports section
 
+**Logo**: The logo used was taken from [Vecteezy](https://www.vecteezy.com/)
+
 ## Code Structure
 
 HTML, CSS, and JavaScript Organization
