@@ -65,6 +65,7 @@ Used to create dynamic charts in the reports section
 
 **Logo**: The logo used was taken from [Vecteezy](https://www.vecteezy.com/)
 
+**Font**: The font used is Roboto, taken from [Google Fonts](https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap)
 ## Code Structure
 
 HTML, CSS, and JavaScript Organization
