@@ -22,13 +22,13 @@ The **Expense Tracker** web application is designed to help users manage their p
    
 2. **Navigate to the Project Directory**:
 
-```bash
-cd expense-tracker
-```
+   ```bash
+   cd expense-tracker
+   ```
 
 3. **Open the Application**:
 
-Open index.html in a web browser.
+   Open index.html in a web browser.
 
 ## Features
 
