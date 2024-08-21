@@ -12,14 +12,14 @@ The **Expense Tracker** web application is designed to help users manage their p
 - **User-Friendly Interface**: The application is designed to be intuitive and accessible, making it easy for users of all technical levels to manage their finances.
 - **Cross-Device Compatibility**: The responsive design ensures that users can access the application from any device, whether it's a desktop, tablet, or smartphone.
 
-## Deployment Procedure
+## How to Clone
 
 1. **Clone the Repository**:
 
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
    ```
-   
+
 2. **Navigate to the Project Directory**:
 
    ```bash
@@ -33,35 +33,29 @@ The **Expense Tracker** web application is designed to help users manage their p
 ## Features
 
 1. **Add and View Expenses**
-**Description**: Users can add new expenses by entering details such as the expense name, amount, category, and date. The application displays all recorded expenses in a list format.
-**Value**: Provides a centralized way to record and track all financial transactions, ensuring users have a clear and organized overview of their spending.
+   **Description**: Users can add new expenses by entering details such as the expense name, amount, category, and date. The application displays all recorded expenses in a list format.
+   **Value**: Provides a centralized way to record and track all financial transactions, ensuring users have a clear and organized overview of their spending.
 
 <img width="941" alt="ss1" src="https://github.com/user-attachments/assets/45ddd6f9-e5fb-4aeb-b6ac-d28de5b440b4">
 
-
 <img width="944" alt="ss2" src="https://github.com/user-attachments/assets/a87a31ae-2c1b-4401-b250-20b281f134cf">
 
-
 2. **Budget Management**
-**Description**: Users can set budgets for different spending categories and track their spending against these budgets.
-**Value**: Helps users to control their spending by setting limits and visualizing how much they have left to spend.
+   **Description**: Users can set budgets for different spending categories and track their spending against these budgets.
+   **Value**: Helps users to control their spending by setting limits and visualizing how much they have left to spend.
 
 <img width="944" alt="ss3" src="https://github.com/user-attachments/assets/02847fcd-62de-4d95-aa58-d5c6694e96a7">
 
 <img width="938" alt="ss4" src="https://github.com/user-attachments/assets/f6573f50-c200-4c37-af83-82ee68979862">
 
-
-
 4. **Report Generation**
-**Description**: The application generates detailed reports based on the user's expenses, displaying trends and patterns in their spending habits.
-**Value**: Offers users valuable insights into their financial behavior, allowing them to make informed decisions to improve their financial health.
-Attribution of External Code
+   **Description**: The application generates detailed reports based on the user's expenses, displaying trends and patterns in their spending habits.
+   **Value**: Offers users valuable insights into their financial behavior, allowing them to make informed decisions to improve their financial health.
+   Attribution of External Code
 
 <img width="945" alt="ss5" src="https://github.com/user-attachments/assets/606ec042-a965-4c0c-9f14-d5b978cacf1d">
 
-
 <img width="937" alt="ss6" src="https://github.com/user-attachments/assets/268afddf-e7c3-464e-b7cb-43dc52fb01cc">
-
 
 ## Attribution
 
@@ -69,7 +63,6 @@ Attribution of External Code
 
 Chart.js - https://www.chartjs.org/
 Used to create dynamic charts in the reports section
-
 
 ## Code Structure
 
@@ -104,6 +97,7 @@ images/: Contains all image files.
 screenshots/: Contains screenshots used in this README.md file.
 
 **Directory structure**:
+
 ```
 ├── assets
 │   ├── css
@@ -122,9 +116,12 @@ screenshots/: Contains screenshots used in this README.md file.
 ├── README.md
 ```
 
+## Deployment
+
+The project was deployed using Github Pages. It can be seen here[https://github.com/Code-Maniac-Rza/Expense-Tracker].
+
 ## Contact
+
 For any questions, suggestions, or support, please contact:
 
 Email: guluzianjoseph123@gmail.com
-
-
