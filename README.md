@@ -79,15 +79,7 @@ HTML: The HTML files (index.html, budgets.html, reports.html) are organized with
 
 CSS: All CSS code is placed in external files located in the assets/css directory. These files are linked in the head section of the HTML files.
 
-Example:
-
-<link rel="stylesheet" href="assets/css/styles.css">
-
 JavaScript: All JavaScript code is placed in external files located in the js directory. These files are linked just above the closing </body> tag in the HTML files.
-
-Example:
-
-<script src="assets/js/scripts.js"></script>
 
 ## Code Sections and Readability
 
@@ -98,7 +90,7 @@ Example:
 ## Directory Structure:
 
 assets/: Contains all static files such as CSS, JavaScript, and images.
-css/: Contains all stylesheets.
+css/: Contains the stylesheet.
 js/: Contains all JavaScript files.
 images/: Contains all image files.
 screenshots/: Contains screenshots used in this README.md file.
@@ -125,7 +117,7 @@ screenshots/: Contains screenshots used in this README.md file.
 
 ## Deployment
 
-The project was deployed using Github Pages. It can be seen [here](https://code-maniac-rza.github.io/Expense-Tracker/).
+The project was deployed using Github Pages. It can be seen [here](https://atpswift.github.io/Expense-Tracker/).
 
 ## Contact
 
