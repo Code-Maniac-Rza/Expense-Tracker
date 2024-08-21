@@ -27,9 +27,9 @@ cd expense-tracker
 ```
 
 3. **Open the Application**:
-```bash
+
 Open index.html in a web browser.
-```
+
 ## Features
 
 1. **Add and View Expenses**
@@ -37,9 +37,21 @@ Open index.html in a web browser.
 **Description**: Users can add new expenses by entering details such as the expense name, amount, category, and date. The application displays all recorded expenses in a list format.
 **Value**: Provides a centralized way to record and track all financial transactions, ensuring users have a clear and organized overview of their spending.
 
+<img width="941" alt="ss1" src="https://github.com/user-attachments/assets/45ddd6f9-e5fb-4aeb-b6ac-d28de5b440b4">
+
+
+<img width="944" alt="ss2" src="https://github.com/user-attachments/assets/a87a31ae-2c1b-4401-b250-20b281f134cf">
+
+
 2. **Budget Management**
 **Description**: Users can set budgets for different spending categories and track their spending against these budgets.
 **Value**: Helps users to control their spending by setting limits and visualizing how much they have left to spend.
+
+<img width="944" alt="ss3" src="https://github.com/user-attachments/assets/02847fcd-62de-4d95-aa58-d5c6694e96a7">
+
+<img width="938" alt="ss4" src="https://github.com/user-attachments/assets/f6573f50-c200-4c37-af83-82ee68979862">
+
+
 
 4. **Report Generation**
 
@@ -47,14 +59,19 @@ Open index.html in a web browser.
 **Value**: Offers users valuable insights into their financial behavior, allowing them to make informed decisions to improve their financial health.
 Attribution of External Code
 
+<img width="945" alt="ss5" src="https://github.com/user-attachments/assets/606ec042-a965-4c0c-9f14-d5b978cacf1d">
+
+
+<img width="937" alt="ss6" src="https://github.com/user-attachments/assets/268afddf-e7c3-464e-b7cb-43dc52fb01cc">
+
+
 ## Attribution
 
 **Chart.js**: Used for generating charts in the reports. The library is included in the reports.js file, and the following comment is placed at the top of the relevant section:
 
-```bash
-// Chart.js - https://www.chartjs.org/
-// Used to create dynamic charts in the reports section
-```
+Chart.js - https://www.chartjs.org/
+Used to create dynamic charts in the reports section
+
 
 ## Code Structure
 
