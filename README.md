@@ -33,7 +33,7 @@ The **Expense Tracker** web application is designed to help users manage their p
 ## Features
 
 1. **Add and View Expenses**
-   **Description**: Users can add new expenses by entering details such as the expense name, amount, category, and date. The application displays all recorded expenses in a list format.
+   **Description**: Users can add new expenses by entering details such as the expense name, amount, and category. The application displays all recorded expenses in a list format.
    **Value**: Provides a centralized way to record and track all financial transactions, ensuring users have a clear and organized overview of their spending.
 
 <img width="941" alt="ss1" src="https://github.com/user-attachments/assets/45ddd6f9-e5fb-4aeb-b6ac-d28de5b440b4">
