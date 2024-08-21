@@ -32,7 +32,7 @@ The **Expense Tracker** web application is designed to help users manage their p
 
 4. **Report Generation**
    **Description**: The application generates detailed reports based on the user's expenses, displaying trends and patterns in their spending habits.
-   **Value**: Offers users valuable insights into their financial behavior, allowing them to make informed decisions to improve their financial health.
+   **Value**: Offers users valuable insights into their financial behaviour, allowing them to make informed decisions to improve their financial health.
 
 <img width="945" alt="ss5" src="https://github.com/user-attachments/assets/606ec042-a965-4c0c-9f14-d5b978cacf1d">
 
