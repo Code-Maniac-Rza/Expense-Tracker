@@ -33,7 +33,6 @@ Open index.html in a web browser.
 ## Features
 
 1. **Add and View Expenses**
-
 **Description**: Users can add new expenses by entering details such as the expense name, amount, category, and date. The application displays all recorded expenses in a list format.
 **Value**: Provides a centralized way to record and track all financial transactions, ensuring users have a clear and organized overview of their spending.
 
@@ -54,7 +53,6 @@ Open index.html in a web browser.
 
 
 4. **Report Generation**
-
 **Description**: The application generates detailed reports based on the user's expenses, displaying trends and patterns in their spending habits.
 **Value**: Offers users valuable insights into their financial behavior, allowing them to make informed decisions to improve their financial health.
 Attribution of External Code
