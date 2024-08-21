@@ -12,24 +12,6 @@ The **Expense Tracker** web application is designed to help users manage their p
 - **User-Friendly Interface**: The application is designed to be intuitive and accessible, making it easy for users of all technical levels to manage their finances.
 - **Cross-Device Compatibility**: The responsive design ensures that users can access the application from any device, whether it's a desktop, tablet, or smartphone.
 
-## How to Clone
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   ```
-
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd expense-tracker
-   ```
-
-3. **Open the Application**:
-
-   Open index.html in a web browser.
-
 ## Features
 
 1. **Add and View Expenses**
@@ -55,6 +37,31 @@ The **Expense Tracker** web application is designed to help users manage their p
 <img width="945" alt="ss5" src="https://github.com/user-attachments/assets/606ec042-a965-4c0c-9f14-d5b978cacf1d">
 
 <img width="937" alt="ss6" src="https://github.com/user-attachments/assets/268afddf-e7c3-464e-b7cb-43dc52fb01cc">
+
+## How to Clone
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/expense-tracker.git
+   ```
+
+2. **Navigate to the Project Directory**:
+
+   ```bash
+   cd expense-tracker
+   ```
+
+3. **Open the Application**:
+
+   Open index.html in a web browser.
+
+## Deployment Procedure
+   1. Pushed the code to the main branch (or master if using an older             setup).
+   2. Go to your GitHub repository settings.
+   3. Scroll down to the "GitHub Pages" section.
+   4. Set the source branch to main and the folder to /root or /docs.
+   5. Save and wait for GitHub to deploy your site. The site was live             at https://atpswift.github.io/expense-tracker/.
 
 ## Attribution
 
