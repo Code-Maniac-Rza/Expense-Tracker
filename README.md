@@ -75,8 +75,6 @@ Used to create dynamic charts in the reports section
 **Font**: The font used is Roboto, taken from [Google Fonts](https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap)
 ## Code Structure
 
-HTML, CSS, and JavaScript Organization
-
 HTML: The HTML files (index.html, budgets.html, reports.html) are organized with clear sections and comments to improve readability. Each file starts with a <!DOCTYPE html> declaration and is structured with a head section containing meta information and links to stylesheets, followed by a body section that contains the content.
 
 CSS: All CSS code is placed in external files located in the assets/css directory. These files are linked in the head section of the HTML files.
