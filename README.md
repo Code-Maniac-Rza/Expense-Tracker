@@ -118,7 +118,7 @@ screenshots/: Contains screenshots used in this README.md file.
 
 ## Deployment
 
-The project was deployed using Github Pages. It can be seen (here)[https://github.com/Code-Maniac-Rza/Expense-Tracker].
+The project was deployed using Github Pages. It can be seen [here](https://github.com/Code-Maniac-Rza/Expense-Tracker).
 
 ## Contact
 
